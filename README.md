@@ -45,7 +45,7 @@ All commands are available as `ga` or `gally`.
 
 ### pr [branch]
 
-Create PR from `origin/CURRNET_BRANCH` to remote `upstream/TARGET_BRANCH` with
+Create PR from `origin/CURRENT_BRANCH` to remote `upstream/TARGET_BRANCH` with
 
     $ ga pr [branch]
 
